@@ -1,27 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\FlutterProject\\flutter-weather-app-starterkit\\weather_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\FlutterProject\\flutter-climateApp\\weather_app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "D:\\FlutterProject\\flutter-weather-app-starterkit\\weather_app\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "353"
-                    },
-                    "to": {
-                        "startLines": "105",
-                        "startColumns": "4",
-                        "startOffsets": "7801",
-                        "endLines": "109",
-                        "endColumns": "12",
-                        "endOffsets": "8093"
-                    }
-                },
                 {
                     "source": "C:\\Users\\asmfa\\.gradle\\caches\\transforms-2\\files-2.1\\b6252bb7f30c7dceb20e97dfa6dfae00\\core-1.2.0\\res\\values\\values.xml",
                     "from": {
@@ -75,6 +56,25 @@
                         "startOffsets": "5259,6437",
                         "endColumns": "67,166",
                         "endOffsets": "5322,6599"
+                    }
+                },
+                {
+                    "source": "D:\\FlutterProject\\flutter-climateApp\\weather_app\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
+                    },
+                    "to": {
+                        "startLines": "105",
+                        "startColumns": "4",
+                        "startOffsets": "7801",
+                        "endLines": "109",
+                        "endColumns": "12",
+                        "endOffsets": "8093"
                     }
                 }
             ]
